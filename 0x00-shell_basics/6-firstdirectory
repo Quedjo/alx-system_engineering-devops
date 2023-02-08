@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /~/tmp/6-firstdirectory
+ln -s /~/tmp/my_first_directory
