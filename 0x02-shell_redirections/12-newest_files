@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt . | heiad
+ls -lt . | head
